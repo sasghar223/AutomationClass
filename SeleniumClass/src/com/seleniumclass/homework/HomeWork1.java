@@ -5,23 +5,23 @@ import java.util.Scanner;
 public class HomeWork1 {
 
 	public static void main(String[] args) {
-//		// largest of three numbers.
-//		int a = 6;
-//		int b = 4; 
-//		int c = 8;
-//		
-//		if (a>b && a>c) {
-//			
-//			System.out.println("A is the largest number");
-//		}
-//		else if (b>a && b > c) {
-//			System.out.println("B is the largest number");
-//		}
-//		
-//		else {
-//			System.out.println("C is the largest number");
-//		}
-//		
+		// largest of three numbers.
+		int a = 6;
+		int b = 4; 
+		int c = 8;
+		
+		if (a>b && a>c) {
+			
+			System.out.println("A is the largest number");
+		}
+		else if (b>a && b > c) {
+			System.out.println("B is the largest number");
+		}
+		
+		else {
+			System.out.println("C is the largest number");
+		}
+		
 		
 		
 		//where user enters the two number and ask the operation user wants to perform 
