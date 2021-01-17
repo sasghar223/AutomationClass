@@ -14,6 +14,7 @@ public class Array2 {
 		num[7] = 8;
 		num[8] = 9;
 		num[9] = 10;
+		
 		int sum=0;
 		for(int i=0; i<num.length; i++) {
 		sum = sum + num[i];
